@@ -31,5 +31,6 @@ android {
 }
 
 dependencies {
-    compileOnly 'io.github.libxposed:api:1.0.0'
+    compileOnly 'com.github.Status_m:XposedBridge:102'
 }
+
